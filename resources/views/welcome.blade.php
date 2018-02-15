@@ -66,6 +66,6 @@
     </head>
     <body>
         <h2 align="center">API ESTUDOS</h2>
-     <img style="margin-left: 100%" src="{{asset('img/lol.png')}}">
+     <img style="margin-left: 40%" src="{{asset('img/lol.png')}}">
     </body>
 </html>
