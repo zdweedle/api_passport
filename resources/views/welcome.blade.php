@@ -65,6 +65,7 @@
         </style>
     </head>
     <body>
-     <img src="{{asset('img/modelo_detalhe_1.jpg')}}">
+        <h2>API ESTUDOS</h2>
+     <img src="{{asset('img/modelo_detalhe_1.png')}}">
     </body>
 </html>
